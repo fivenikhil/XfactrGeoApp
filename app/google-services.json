@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810595294557",
+    "project_id": "my-project-xfactr",
+    "storage_bucket": "my-project-xfactr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810595294557:android:43ba47ac9b92a723519cb4",
+        "android_client_info": {
+          "package_name": "com.xfactr.mygeo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcJEmHm7xbC26K5UIsLPXmzHIuCZuH7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
